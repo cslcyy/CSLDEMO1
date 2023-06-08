@@ -1,0 +1,3 @@
+﻿D:\钉钉文件夹\无锡华辰芯光\文件资料\文件资料\露点仪资料\C\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project21-30.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test21-40.c
+  Project21-30.vcxproj -> D:\soft\code\Project21-30\x64\Debug\Project21-40.exe
