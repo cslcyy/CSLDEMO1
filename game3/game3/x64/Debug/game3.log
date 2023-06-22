@@ -1,0 +1,45 @@
+﻿  game3.c
+D:\soft\code\game3\game3\game3.c(59,1): error C2061: 语法错误: 标识符“public”
+D:\soft\code\game3\game3\game3.c(70,30): error C2146: 语法错误: 缺少“)”(在标识符“show”的前面)
+D:\soft\code\game3\game3\game3.c(70,30): error C2081: “bool”: 形参表中的名称非法
+D:\soft\code\game3\game3\game3.c(70,30): error C2061: 语法错误: 标识符“show”
+D:\soft\code\game3\game3\game3.c(70,30): error C2059: 语法错误:“;”
+D:\soft\code\game3\game3\game3.c(70,35): error C2513: “ ”: 在“=”前没有声明变量
+D:\soft\code\game3\game3\game3.c(70,42): error C2059: 语法错误:“)”
+D:\soft\code\game3\game3\game3.c(70,43): error C2065: “false”: 未声明的标识符
+D:\soft\code\game3\game3\game3.c(72,7): error C2061: 语法错误: 标识符“move”
+D:\soft\code\game3\game3\game3.c(72,7): error C2059: 语法错误:“;”
+D:\soft\code\game3\game3\game3.c(72,16): error C2059: 语法错误:“<parameter-list>”
+D:\soft\code\game3\game3\game3.c(73,7): error C2061: 语法错误: 标识符“downSet”
+D:\soft\code\game3\game3\game3.c(73,7): error C2059: 语法错误:“;”
+D:\soft\code\game3\game3\game3.c(73,19): error C2059: 语法错误:“<parameter-list>”
+D:\soft\code\game3\game3\game3.c(76,1): error C2059: 语法错误:“}”
+D:\soft\code\game3\game3\game3.c(92,7): error C2146: 语法错误: 缺少“;”(在标识符“game”的前面)
+D:\soft\code\game3\game3\game3.c(92,2): warning C4550: 表达式计算为缺少参数列表的函数
+D:\soft\code\game3\game3\game3.c(92,11): error C2065: “game”: 未声明的标识符
+D:\soft\code\game3\game3\game3.c(93,6): error C2065: “game”: 未声明的标识符
+D:\soft\code\game3\game3\game3.c(93,7): error C2224: “.showMenu”的左侧必须具有结构/联合类型
+D:\soft\code\game3\game3\game3.c(96,5): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(96,5): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(103,10): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(103,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(144,10): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(144,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(188,10): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(188,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(216,10): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(216,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(242,10): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(242,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(295,6): error C2061: 语法错误: 标识符“Game”
+D:\soft\code\game3\game3\game3.c(295,6): error C2059: 语法错误:“;”
+D:\soft\code\game3\game3\game3.c(295,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(335,6): error C2061: 语法错误: 标识符“Game”
+D:\soft\code\game3\game3\game3.c(335,6): error C2059: 语法错误:“;”
+D:\soft\code\game3\game3\game3.c(335,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(397,10): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(397,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(438,10): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(438,10): error C2059: 语法错误:“:”
+D:\soft\code\game3\game3\game3.c(508,10): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\soft\code\game3\game3\game3.c(508,10): error C2059: 语法错误:“:”
