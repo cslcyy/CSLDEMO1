@@ -1,0 +1,4 @@
+﻿  practice2.c
+D:\soft\code\practice2\practice2\practice2.c(523,7): warning C4013: “open”未定义；假设外部返回 int
+D:\soft\code\practice2\practice2\practice2.c(523,29): warning C4047: “=”:“FILE *”与“int”的间接级别不同
+D:\soft\code\practice2\practice2\practice2.c(530,2): error C2198: “fclose”: 用于调用的参数太少
